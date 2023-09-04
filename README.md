@@ -37,6 +37,8 @@ The Todo App is a web-based task management tool that allows you to add, complet
 - JavaScript
 - Font Awesome for icons
 
+## Live Demo : https://sanjeevani789.github.io/todo-list-app/
+
 ## Contact : sanjeevanitumdam8@gmail.com
 
 ## License 📄
